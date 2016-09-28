@@ -2,7 +2,237 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a6bd1cb-040a-492a-a70d-be71da1dc552" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/PracticeApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/algorithm/PeekingIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/algorithm/PermutationAlgorithm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/algorithm/Solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/algorithm/ThreeSumAlgorithm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/algorithm/Trie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/algorithm/TrieNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/algorithm/WordDictionary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/algorithm/WordNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/config/MQConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/config/MQService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/config/SecurityConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/config/ThreadPoolConfig$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/config/ThreadPoolConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/framework/ApplicationService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/framework/ITaskJob.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/framework/MyApplicationContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/framework/MyApplicationListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/framework/MyBeanScanner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/framework/MyServiceAnno.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/framework/ServiceBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/framework/ShgtService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/framework/TaskJobService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/framework/TestAnno.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/framework/exception/TaskServiceException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/factory/AbstractPeopleFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/factory/AmericaPeople.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/factory/AmericaPeopleFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/factory/ChinesePeople.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/factory/ChinesePeopleFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/factory/JapanesePeople.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/factory/JapanesePeopleFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/factory/People.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/factory/SimplePeopleFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/proxy/Agent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/proxy/BasketBallPlayer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/proxy/DynamicProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/proxy/FootBallPlayer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/proxy/Player.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/proxy/Team.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/singleton/EnumSingleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/singleton/HungrySingleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/patterns/singleton/LazySingleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/thread/Consumer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/thread/MyCallable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/thread/MyThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/thread/MyThreadPool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/thread/MyWorkThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/thread/Producer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/thread/ThreadArgs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/utils/DateUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/utils/EncryptUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/utils/JsonUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/utils/PDFUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/utils/RestUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/web/controller/ApplicationController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/web/controller/AuthUserController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/web/controller/HelloWorldController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/web/domain/AuthUser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/web/dto/ReturnBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/web/mapper/AuthUserMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/web/service/AuthUserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/web/service/PeopleHelperService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/web/service/PeopleService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/web/task/RabbitMQClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/wheels/achieve/DaoInjectAchieve.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/wheels/achieve/EludeGenericValidateAchieve.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/wheels/achieve/JDBCAchieve.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/wheels/achieve/JsonUtilAchieve.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/wheels/achieve/MyArray$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/wheels/achieve/MyArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/wheels/achieve/ParseMapValueArchieve.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/wheels/anno/MyAutoired.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/wheels/bean/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/wheels/client/HttpClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/wheels/client/NioHttpClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/wheels/dao/StudentDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/wheels/server/HttpServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/wheels/server/NioHttpServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/wheels/server/ServerThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/coral/practice/wheels/service/Function.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/generatorConfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/sql/AuthUserMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/PracticeApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/algorithm/PeekingIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/algorithm/PermutationAlgorithm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/algorithm/Solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/algorithm/ThreeSumAlgorithm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/algorithm/Trie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/algorithm/TrieNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/algorithm/WordDictionary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/algorithm/WordNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/config/MQConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/config/MQService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/config/ThreadPoolConfig$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/config/ThreadPoolConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/patterns/proxy/Agent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/patterns/proxy/BasketBallPlayer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/patterns/proxy/DynamicProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/patterns/proxy/FootBallPlayer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/patterns/proxy/Player.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/patterns/proxy/Team.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/patterns/singleton/EnumSingleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/patterns/singleton/HungrySingleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/patterns/singleton/LazySingleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/thread/MyCallable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/thread/MyThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/thread/ThreadArgs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/utils/DateUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/utils/EncryptUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/utils/JsonUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/utils/PDFUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/utils/RestUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/web/controller/AuthUserController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/web/domain/AuthUser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/web/dto/ReturnBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/web/mapper/AuthUserMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/web/service/AuthUserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/web/service/PeopleHelperService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/web/service/PeopleService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/wheels/achieve/DaoInjectAchieve.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/wheels/achieve/EludeGenericValidateAchieve.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/wheels/achieve/JDBCAchieve.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/wheels/achieve/JsonUtilAchieve.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/wheels/achieve/MyArray$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/wheels/achieve/MyArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/wheels/achieve/ParseMapValueArchieve.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/wheels/anno/MyAutoired.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/wheels/bean/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/wheels/dao/StudentDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/com/coral/practice/wheels/service/Function.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/generatorConfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/classes/sql/AuthUserMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/amqp-client-3.5.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/classmate-1.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/commons-codec-1.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/commons-collections-3.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/commons-collections4-4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/commons-io-2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/commons-lang-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/commons-lang3-3.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/ezmorph-1.0.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/fontbox-2.0.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/h2-1.4.192.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-validator-5.2.4.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/http-client-1.0.0.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/httpclient-4.5.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/httpcore-4.4.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.7.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-core-2.7.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-core-asl-1.9.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-databind-2.7.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.21.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/json-lib-2.4-jdk15.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/jul-to-slf4j-1.7.21.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/log4j-over-slf4j-1.7.21.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/logback-classic-1.1.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/logback-core-1.1.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-3.3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.2.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-spring-boot-autoconfigure-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-spring-boot-starter-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.39.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/ojdbc6-11.2.0.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/pdfbox-2.0.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.21.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/snakeyaml-1.16.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-amqp-1.5.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aop-4.2.7.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-beans-4.2.7.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-1.3.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-actuator-1.3.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-autoconfigure-1.3.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-1.3.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-actuator-1.3.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-amqp-1.3.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-aop-1.3.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-jdbc-1.3.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-logging-1.3.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-security-1.3.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-tomcat-1.3.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-validation-1.3.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-web-1.3.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-ws-1.3.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-4.2.7.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-core-4.2.7.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-4.2.7.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.2.7.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jms-4.2.7.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-messaging-4.2.7.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-oxm-4.2.7.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-rabbit-1.5.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-retry-1.1.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-security-config-4.0.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-security-core-4.0.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-security-web-4.0.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-tx-4.2.7.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-4.2.7.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.2.7.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-ws-core-2.2.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-ws-support-2.2.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/spring-xml-2.2.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/tomcat-embed-core-8.0.36.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/tomcat-embed-el-8.0.36.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/tomcat-embed-logging-juli-8.0.36.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/tomcat-embed-websocket-8.0.36.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/tomcat-jdbc-8.0.36.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/tomcat-juli-8.0.36.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/practice-0.0.1-SNAPSHOT/WEB-INF/lib/xml-apis-1.0.b2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/coral/practice/patterns/singlteton/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/coral/practice/patterns/singlteton/SingletonTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/coral/practice/patterns/singlteton/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/coral/practice/patterns/singlteton/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/coral/practice/web/AOPTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/coral/practice/web/AuthUserServiceTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/coral/practice/web/RabbitMQTest.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coral/practice/utils/HttpClientUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/coral/practice/utils/HttpClientUtils.java" />
     </list>
     <ignored path="practice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,133 +278,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="261" column="24" selection-start-line="261" selection-start-column="24" selection-end-line="261" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StaticListableBeanFactory.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.7.RELEASE/spring-beans-4.2.7.RELEASE-sources.jar!/org/springframework/beans/factory/support/StaticListableBeanFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="323" column="42" selection-start-line="323" selection-start-column="42" selection-end-line="323" selection-end-column="42" />
               <folding>
-                <element signature="e#0#11215#0" expanded="false" />
+                <element signature="e#0#15166#0" expanded="false" />
                 <element signature="imports" expanded="false" />
-                <element signature="e#2842#2843#0" expanded="false" />
-                <element signature="e#2875#2876#0" expanded="false" />
-                <element signature="e#5365#5366#0" expanded="false" />
-                <element signature="e#5407#5408#0" expanded="false" />
-                <element signature="e#7204#7205#0" expanded="false" />
-                <element signature="e#7231#7232#0" expanded="false" />
-                <element signature="e#7497#7498#0" expanded="false" />
-                <element signature="e#7539#7540#0" expanded="false" />
-                <element signature="e#7590#7591#0" expanded="false" />
-                <element signature="e#7621#7622#0" expanded="false" />
-                <element signature="e#7677#7678#0" expanded="false" />
-                <element signature="e#7737#7738#0" expanded="false" />
-                <element signature="e#8580#8581#0" expanded="false" />
-                <element signature="e#8644#8645#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AnnotationUtils.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.7.RELEASE/spring-core-4.2.7.RELEASE-sources.jar!/org/springframework/core/annotation/AnnotationUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="673" column="44" selection-start-line="673" selection-start-column="44" selection-end-line="673" selection-end-column="44" />
-              <folding>
-                <element signature="e#0#94906#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#56454#56455#0" expanded="false" />
-                <element signature="e#56495#56496#0" expanded="false" />
-                <element signature="e#57621#57622#0" expanded="false" />
-                <element signature="e#57669#57670#0" expanded="false" />
-                <element signature="e#60293#60294#0" expanded="false" />
-                <element signature="e#60345#60346#0" expanded="false" />
-                <element signature="e#79726#79727#0" expanded="false" />
-                <element signature="e#79805#79806#0" expanded="false" />
-                <element signature="e#94857#94858#0" expanded="false" />
-                <element signature="e#94898#94899#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractApplicationContext.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.7.RELEASE/spring-context-4.2.7.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1183" column="46" selection-start-line="1183" selection-start-column="46" selection-end-line="1183" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#49287#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#9540#9541#0" expanded="false" />
-                <element signature="e#9606#9607#0" expanded="false" />
-                <element signature="e#10311#10312#0" expanded="false" />
-                <element signature="e#10330#10331#0" expanded="false" />
-                <element signature="e#10367#10368#0" expanded="false" />
-                <element signature="e#10388#10389#0" expanded="false" />
-                <element signature="e#10438#10439#0" expanded="false" />
-                <element signature="e#10454#10455#0" expanded="false" />
-                <element signature="e#10962#10963#0" expanded="false" />
-                <element signature="e#10992#10993#0" expanded="false" />
-                <element signature="e#11190#11191#0" expanded="false" />
-                <element signature="e#11215#11216#0" expanded="false" />
-                <element signature="e#12017#12018#0" expanded="false" />
-                <element signature="e#12054#12055#0" expanded="false" />
-                <element signature="e#12456#12457#0" expanded="false" />
-                <element signature="e#12486#12487#0" expanded="false" />
-                <element signature="e#12896#12897#0" expanded="false" />
-                <element signature="e#12928#12929#0" expanded="false" />
-                <element signature="e#13377#13378#0" expanded="false" />
-                <element signature="e#13409#13410#0" expanded="false" />
-                <element signature="e#18159#18160#0" expanded="false" />
-                <element signature="e#18203#18204#0" expanded="false" />
-                <element signature="e#18618#18619#0" expanded="false" />
-                <element signature="e#18657#18658#0" expanded="false" />
-                <element signature="e#18905#18906#0" expanded="false" />
-                <element signature="e#18944#18945#0" expanded="false" />
-                <element signature="e#33314#33315#0" expanded="false" />
-                <element signature="e#33343#33344#0" expanded="false" />
-                <element signature="e#34923#34924#0" expanded="false" />
-                <element signature="e#34937#34938#0" expanded="false" />
-                <element signature="e#37591#37592#0" expanded="false" />
-                <element signature="e#37634#37635#0" expanded="false" />
-                <element signature="e#38148#38149#0" expanded="false" />
-                <element signature="e#38179#38180#0" expanded="false" />
-                <element signature="e#40088#40089#0" expanded="false" />
-                <element signature="e#40137#40138#0" expanded="false" />
-                <element signature="e#41106#41107#0" expanded="false" />
-                <element signature="e#41153#41154#0" expanded="false" />
-                <element signature="e#41423#41424#0" expanded="false" />
-                <element signature="e#41486#41487#0" expanded="false" />
-                <element signature="e#41537#41538#0" expanded="false" />
-                <element signature="e#41592#41593#0" expanded="false" />
-                <element signature="e#41648#41649#0" expanded="false" />
-                <element signature="e#41703#41704#0" expanded="false" />
-                <element signature="e#43648#43649#0" expanded="false" />
-                <element signature="e#43673#43674#0" expanded="false" />
-                <element signature="e#43734#43735#0" expanded="false" />
-                <element signature="e#43788#43789#0" expanded="false" />
-                <element signature="e#46678#46679#0" expanded="false" />
-                <element signature="e#46764#46765#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestAnno.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coral/practice/framework/TestAnno.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0498688">
-              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -190,10 +296,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HttpClientUtils.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HttpClientUtils.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/coral/practice/utils/HttpClientUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.43715847">
+              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="28.965517">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -311,6 +427,20 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="practice" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
@@ -378,132 +508,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utils" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1245,7 +1249,7 @@
       <workItem from="1474868669143" duration="8969000" />
       <workItem from="1474938601067" duration="3863000" />
       <workItem from="1475029702105" duration="1218000" />
-      <workItem from="1475048826843" duration="778000" />
+      <workItem from="1475048826843" duration="2540000" />
     </task>
     <task id="LOCAL-00001" summary="eclipse配置文件">
       <created>1475048908859</created>
@@ -1259,7 +1263,13 @@
       <option name="project" value="LOCAL" />
       <updated>1475049130469</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="eclipse配置文件">
+      <created>1475049638836</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1475049638836</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1295,11 +1305,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196822000" />
+    <option name="totallyTimeSpent" value="198584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1307,8 +1317,9 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.4969743" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.4969743" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3535188" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1320,14 +1331,13 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3535188" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1384,13 +1394,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coral/practice/patterns/factory/AmericaPeopleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4918033">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/coral/practice/patterns/factory/AbstractPeopleFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38251367">
@@ -1673,67 +1676,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.7.RELEASE/spring-context-4.2.7.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1183" column="46" selection-start-line="1183" selection-start-column="46" selection-end-line="1183" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#49287#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#9540#9541#0" expanded="false" />
-            <element signature="e#9606#9607#0" expanded="false" />
-            <element signature="e#10311#10312#0" expanded="false" />
-            <element signature="e#10330#10331#0" expanded="false" />
-            <element signature="e#10367#10368#0" expanded="false" />
-            <element signature="e#10388#10389#0" expanded="false" />
-            <element signature="e#10438#10439#0" expanded="false" />
-            <element signature="e#10454#10455#0" expanded="false" />
-            <element signature="e#10962#10963#0" expanded="false" />
-            <element signature="e#10992#10993#0" expanded="false" />
-            <element signature="e#11190#11191#0" expanded="false" />
-            <element signature="e#11215#11216#0" expanded="false" />
-            <element signature="e#12017#12018#0" expanded="false" />
-            <element signature="e#12054#12055#0" expanded="false" />
-            <element signature="e#12456#12457#0" expanded="false" />
-            <element signature="e#12486#12487#0" expanded="false" />
-            <element signature="e#12896#12897#0" expanded="false" />
-            <element signature="e#12928#12929#0" expanded="false" />
-            <element signature="e#13377#13378#0" expanded="false" />
-            <element signature="e#13409#13410#0" expanded="false" />
-            <element signature="e#18159#18160#0" expanded="false" />
-            <element signature="e#18203#18204#0" expanded="false" />
-            <element signature="e#18618#18619#0" expanded="false" />
-            <element signature="e#18657#18658#0" expanded="false" />
-            <element signature="e#18905#18906#0" expanded="false" />
-            <element signature="e#18944#18945#0" expanded="false" />
-            <element signature="e#33314#33315#0" expanded="false" />
-            <element signature="e#33343#33344#0" expanded="false" />
-            <element signature="e#34923#34924#0" expanded="false" />
-            <element signature="e#34937#34938#0" expanded="false" />
-            <element signature="e#37591#37592#0" expanded="false" />
-            <element signature="e#37634#37635#0" expanded="false" />
-            <element signature="e#38148#38149#0" expanded="false" />
-            <element signature="e#38179#38180#0" expanded="false" />
-            <element signature="e#40088#40089#0" expanded="false" />
-            <element signature="e#40137#40138#0" expanded="false" />
-            <element signature="e#41106#41107#0" expanded="false" />
-            <element signature="e#41153#41154#0" expanded="false" />
-            <element signature="e#41423#41424#0" expanded="false" />
-            <element signature="e#41486#41487#0" expanded="false" />
-            <element signature="e#41537#41538#0" expanded="false" />
-            <element signature="e#41592#41593#0" expanded="false" />
-            <element signature="e#41648#41649#0" expanded="false" />
-            <element signature="e#41703#41704#0" expanded="false" />
-            <element signature="e#43648#43649#0" expanded="false" />
-            <element signature="e#43673#43674#0" expanded="false" />
-            <element signature="e#43734#43735#0" expanded="false" />
-            <element signature="e#43788#43789#0" expanded="false" />
-            <element signature="e#46678#46679#0" expanded="false" />
-            <element signature="e#46764#46765#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.7.RELEASE/spring-core-4.2.7.RELEASE.jar!/org/springframework/core/annotation/AnnotationUtils.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="42.357143">
@@ -1748,72 +1690,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.7.RELEASE/spring-beans-4.2.7.RELEASE-sources.jar!/org/springframework/beans/factory/ListableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="261" column="24" selection-start-line="261" selection-start-column="24" selection-end-line="261" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.7.RELEASE/spring-beans-4.2.7.RELEASE-sources.jar!/org/springframework/beans/factory/support/StaticListableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="323" column="42" selection-start-line="323" selection-start-column="42" selection-end-line="323" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#11215#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#2842#2843#0" expanded="false" />
-            <element signature="e#2875#2876#0" expanded="false" />
-            <element signature="e#5365#5366#0" expanded="false" />
-            <element signature="e#5407#5408#0" expanded="false" />
-            <element signature="e#7204#7205#0" expanded="false" />
-            <element signature="e#7231#7232#0" expanded="false" />
-            <element signature="e#7497#7498#0" expanded="false" />
-            <element signature="e#7539#7540#0" expanded="false" />
-            <element signature="e#7590#7591#0" expanded="false" />
-            <element signature="e#7621#7622#0" expanded="false" />
-            <element signature="e#7677#7678#0" expanded="false" />
-            <element signature="e#7737#7738#0" expanded="false" />
-            <element signature="e#8580#8581#0" expanded="false" />
-            <element signature="e#8644#8645#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.7.RELEASE/spring-core-4.2.7.RELEASE-sources.jar!/org/springframework/core/annotation/AnnotationUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="673" column="44" selection-start-line="673" selection-start-column="44" selection-end-line="673" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#94906#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#56454#56455#0" expanded="false" />
-            <element signature="e#56495#56496#0" expanded="false" />
-            <element signature="e#57621#57622#0" expanded="false" />
-            <element signature="e#57669#57670#0" expanded="false" />
-            <element signature="e#60293#60294#0" expanded="false" />
-            <element signature="e#60345#60346#0" expanded="false" />
-            <element signature="e#79726#79727#0" expanded="false" />
-            <element signature="e#79805#79806#0" expanded="false" />
-            <element signature="e#94857#94858#0" expanded="false" />
-            <element signature="e#94898#94899#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/coral/practice/framework/MyApplicationContext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coral/practice/utils/HttpClientUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1836,13 +1716,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/coral/practice/framework/TestAnno.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0498688">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.48109967">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#397#398#0" expanded="false" />
+            <element signature="e#431#432#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.7.RELEASE/spring-context-4.2.7.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34364262">
+          <caret line="1192" column="5" selection-start-line="1192" selection-start-column="5" selection-end-line="1192" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.7.RELEASE/spring-core-4.2.7.RELEASE-sources.jar!/org/springframework/core/annotation/AnnotationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03436426">
+          <caret line="673" column="44" selection-start-line="673" selection-start-column="44" selection-end-line="673" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.7.RELEASE/spring-beans-4.2.7.RELEASE-sources.jar!/org/springframework/beans/factory/support/StaticListableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6563574">
+          <caret line="323" column="42" selection-start-line="323" selection-start-column="42" selection-end-line="323" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#11215#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2842#2843#0" expanded="false" />
+            <element signature="e#2875#2876#0" expanded="false" />
+            <element signature="e#5365#5366#0" expanded="false" />
+            <element signature="e#5407#5408#0" expanded="false" />
+            <element signature="e#7204#7205#0" expanded="false" />
+            <element signature="e#7231#7232#0" expanded="false" />
+            <element signature="e#7497#7498#0" expanded="false" />
+            <element signature="e#7539#7540#0" expanded="false" />
+            <element signature="e#7590#7591#0" expanded="false" />
+            <element signature="e#7621#7622#0" expanded="false" />
+            <element signature="e#7677#7678#0" expanded="false" />
+            <element signature="e#7737#7738#0" expanded="false" />
+            <element signature="e#8580#8581#0" expanded="false" />
+            <element signature="e#8644#8645#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.7.RELEASE/spring-beans-4.2.7.RELEASE-sources.jar!/org/springframework/beans/factory/ListableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="261" column="24" selection-start-line="261" selection-start-column="24" selection-end-line="261" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#15166#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="28.965517">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coral/practice/utils/HttpClientUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43715847">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>

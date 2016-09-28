@@ -28,7 +28,7 @@ import java.util.Map;
 /**
  * http client 帮助类
  * @author hb.li
- * @version 创建时间：2016年4月11日 上午10:05:47 
+ * @version 创建时间：2016年4月11日 上午10:05:47
  * 类说明 
  */
 public abstract class HttpClientUtils {
