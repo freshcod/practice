@@ -75,6 +75,7 @@ public class Trie {
         trie.insert(word);
         boolean result = trie.search("");
         System.out.println(result);
+
     }
 }
 
